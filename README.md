@@ -73,24 +73,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-# Einblick über den App 
+# Overview of the App
 ## Home
-Auf der Startseite gibt es drei Schaltflächen, eine für die beliebtesten Filme und eine für die
-beliebtesten Serien, die letzte für allgemeine Informationen über die Website.
+On the homepage, there are three buttons—one for the most popular movies, one for the most popular TV series, and the last one for general information about the website.
 
-# beliebtesten Filme
-Auf dieser Seite können Sie die 20 beliebtesten Filme der Welt mit Titel, Plakat, Übersicht,
-Erscheinungsdatum und Originalsprache ansehen.
+## Most Popular Movies
+On this page, you can view the top 20 most popular movies worldwide with details such as title, poster, overview, release date, and original language.
 
-# beliebtesten Serien
-Auf dieser Seite können Sie die 20 beliebtesten Serien der Welt mit Titel, Poster, Übersicht,
-Erscheinungsdatum und Anzahl der Staffeln ansehen.
+## Most Popular TV Series
+On this page, you can explore the top 20 most popular TV series globally with information including title, poster, overview, release date, and the number of seasons.
 
-# Suche
-Auf dieser Website können Sie in der tmdb-Datenbank nach Filmen und Serien suchen, indem
-Sie den Namen des Films eingeben.
+## Search
+This feature allows you to search for movies and TV series in the tmdb database by entering the name of the film.
 
-# Suche Ergebnis
-Die Ergebnisse werden mit der Beschreibung des Films oder der Serie und einigen anderen
-Informationen angezeigt.
+## Search Results
+The results will be displayed with the description of the movie or TV series and additional information.
 
