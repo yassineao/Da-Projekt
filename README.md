@@ -63,8 +63,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# Einblick über den App 
+## Home
+Auf der Startseite gibt es drei Schaltflächen, eine für die beliebtesten Filme und eine für die
+beliebtesten Serien, die letzte für allgemeine Informationen über die Website.
+
+# beliebtesten Filme
+Auf dieser Seite können Sie die 20 beliebtesten Filme der Welt mit Titel, Plakat, Übersicht,
+Erscheinungsdatum und Originalsprache ansehen.
+
+# beliebtesten Serien
+Auf dieser Seite können Sie die 20 beliebtesten Serien der Welt mit Titel, Poster, Übersicht,
+Erscheinungsdatum und Anzahl der Staffeln ansehen.
+
+# Suche
+Auf dieser Website können Sie in der tmdb-Datenbank nach Filmen und Serien suchen, indem
+Sie den Namen des Films eingeben.
+
+# Suche Ergebnis
+Die Ergebnisse werden mit der Beschreibung des Films oder der Serie und einigen anderen
+Informationen angezeigt.
+
